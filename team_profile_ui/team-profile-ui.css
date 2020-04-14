@@ -1,0 +1,124 @@
+body{
+	color: #000;
+	font-size: 20px;
+	font-family: nunito, Calibri;
+	background-color: rgb(186, 189, 193);
+	position: absolute;
+	text-align: center;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+}
+
+#title{
+	top: 10px;
+	left: 200px;
+	position: static;
+	font-size: 2.5em;
+	text-align: center;
+	color: #fff;
+	text-shadow: 1px 3px 8px #202020;
+	z-index: 10;
+}
+
+.team-link{
+	position: absolute;
+	right: 1em;
+	color: #000
+}
+
+.team-schedule{
+	position: absolute;
+	left: 1em;
+	height: 3em;
+	width: 10em;
+	color: #fff;
+	box-shadow: 1px 2px 10px -1px rgba(0, 0, 0, .3);
+	background: linear-gradient(to bottom right, rgb(95, 95, 97), rgb(128, 128, 132));
+	transition: .4s;
+	border-radius: 10px;
+}
+
+	.team-schedule:hover{
+		height: 25em;
+		cursor: pointer;
+		border-radius: 2px;
+	}
+	.team-schedule:hover .team-schedule-list{
+		font-size: 1em;
+	}
+
+.team-schedule-list-current{
+	font-size: 1.3em;
+}
+
+.team-schedule-list{
+	font-size: 0em;
+	transition: .4s;
+	list-style-type: none;
+	text-align: left;
+}
+
+.team-card{
+	height: 5em;
+	width: 15em;
+	background-color:rgb(215, 218, 221);
+	box-shadow: 3px 3px 20px #333;
+	transition: .4s;
+	border-radius: 10px;
+	text-align: center;
+	margin: auto;
+	text-overflow: clip;
+}
+	.team-card:hover{
+		height: 15em;
+		cursor: pointer;
+		border-radius: 2px;
+		width: 90vw;
+	}
+	.team-card:hover .team-card-desc{
+		font-size: .8em;
+	}
+	.team-card:hover .venue-image{
+		width:15em;
+	}
+	
+.team-card-title{
+	padding-top: 1.5em;
+}
+
+.team-card-desc {
+	font-size: 0em;
+	height: 90%;
+	text-overflow: clip;
+	transition: .2s;
+}
+
+.main-header{
+	text-align: center;
+}
+
+#main-background{
+	height: 100%;
+	position: absolute;
+	width: 60vw;
+	left: 20vw;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#4a4a4c), to(#7b7b80));
+	background-image: -webkit-linear-gradient(top, #4a4a4c, #7b7b80);
+	background-image: -moz-linear-gradient(top, #4a4a4c, #7b7b80);
+	background-image: linear-gradient(to bottom, #4a4a4c, #7b7b80);
+}
+
+.team-logo{
+	text-align: center;
+	border-radius: 1em;
+	margin-top: calc(2em - 1vw);
+	box-shadow: 3px 3px 20px #000;
+}
+
+.venue-image {
+	width: 0em;
+	box-shadow: 3px 3px 20px #555;
+	border-radius: 10px;
+	transition: .6s;
+}
