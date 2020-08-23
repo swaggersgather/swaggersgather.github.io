@@ -1,0 +1,40 @@
+.header-main {
+    font-family: futura-pt;
+
+}
+.header-upper {
+    width: 100%;
+    background-color: #f0ebe6;
+    height: 40px;
+    font-size: 1em;
+}
+
+.header-middle {
+    font-size: 2.5em;
+    font-family: Segoe UI Light;
+    text-align: center;
+    color: #82817e;
+    height: 2em;
+    padding: 1em;
+}
+
+.header-lower {
+    font-size: 1em;
+    font-family: Segoe UI Light;
+    text-align: center;
+    color: #82817e;
+    height: 2em;
+}
+
+.header-link {
+    cursor: pointer;
+    font-weight: 400;
+    font-family: Segoe UI Light;
+    letter-spacing: 2px;
+    margin: 0 12px;
+    text-decoration-line: none;
+}
+
+.header-link:hover {
+    color: #ccb391;
+}

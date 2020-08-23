@@ -1,0 +1,55 @@
+.carousel-main {
+    font-family: Segoe UI Light;
+    height: 45em;
+    width: 80%;
+    margin: auto;
+    margin-top: 2em;
+    margin-bottom: 3em;
+}
+
+.blog-highlight {
+    font-family: Segoe UI Light;
+    width: 80%;
+    margin: auto;
+    padding-top: 3em;
+}
+.blog-highlight-container {
+    height: 45em;
+    width: 100%;
+    margin: auto;
+    padding-top: 1em;
+    display: flex;
+    flex-direction: row;
+}
+
+.blog-highlight-image {
+    background-repeat: no-repeat;
+    background-size: 422px 536px;
+    width: 32em;
+    height: 35em;
+}
+
+.blog-highlight-item {
+    display: flex;
+    flex-flow: column;
+    cursor: pointer;
+    height: 37em;
+    margin: auto;
+    width: 30%;
+    text-decoration-line: none;
+}
+
+.blog-highlight-item:hover{
+    opacity: .8;
+}
+
+.blog-highlight-item-label{
+    display: inline-block;
+    align-self: flex-end;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.5em;
+    font-weight: 1000;
+    font-family: Segoe UI Light;
+    color: #82817e;
+}
