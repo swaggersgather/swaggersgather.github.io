@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "//swaggers-gather/static/css/main.57261a1a.chunk.css",
-    "main.js": "//swaggers-gather/static/js/main.fde83e45.chunk.js",
-    "main.js.map": "//swaggers-gather/static/js/main.fde83e45.chunk.js.map",
-    "runtime-main.js": "//swaggers-gather/static/js/runtime-main.322036e7.js",
-    "runtime-main.js.map": "//swaggers-gather/static/js/runtime-main.322036e7.js.map",
-    "static/js/2.da8d6cb8.chunk.js": "//swaggers-gather/static/js/2.da8d6cb8.chunk.js",
-    "static/js/2.da8d6cb8.chunk.js.map": "//swaggers-gather/static/js/2.da8d6cb8.chunk.js.map",
-    "index.html": "//swaggers-gather/index.html",
-    "precache-manifest.319fe13c9358560cbbf2db280f83417f.js": "//swaggers-gather/precache-manifest.319fe13c9358560cbbf2db280f83417f.js",
-    "service-worker.js": "//swaggers-gather/service-worker.js",
-    "static/css/main.57261a1a.chunk.css.map": "//swaggers-gather/static/css/main.57261a1a.chunk.css.map",
-    "static/js/2.da8d6cb8.chunk.js.LICENSE.txt": "//swaggers-gather/static/js/2.da8d6cb8.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "//swaggers-gather/static/media/logo.5d5d9eef.svg"
+    "main.css": "/swaggers-gather/static/css/main.57261a1a.chunk.css",
+    "main.js": "/swaggers-gather/static/js/main.7df4828b.chunk.js",
+    "main.js.map": "/swaggers-gather/static/js/main.7df4828b.chunk.js.map",
+    "runtime-main.js": "/swaggers-gather/static/js/runtime-main.a09f7046.js",
+    "runtime-main.js.map": "/swaggers-gather/static/js/runtime-main.a09f7046.js.map",
+    "static/js/2.da8d6cb8.chunk.js": "/swaggers-gather/static/js/2.da8d6cb8.chunk.js",
+    "static/js/2.da8d6cb8.chunk.js.map": "/swaggers-gather/static/js/2.da8d6cb8.chunk.js.map",
+    "index.html": "/swaggers-gather/index.html",
+    "precache-manifest.c493ea510c6124be033812505f5649fa.js": "/swaggers-gather/precache-manifest.c493ea510c6124be033812505f5649fa.js",
+    "service-worker.js": "/swaggers-gather/service-worker.js",
+    "static/css/main.57261a1a.chunk.css.map": "/swaggers-gather/static/css/main.57261a1a.chunk.css.map",
+    "static/js/2.da8d6cb8.chunk.js.LICENSE.txt": "/swaggers-gather/static/js/2.da8d6cb8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/swaggers-gather/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.322036e7.js",
+    "static/js/runtime-main.a09f7046.js",
     "static/js/2.da8d6cb8.chunk.js",
     "static/css/main.57261a1a.chunk.css",
-    "static/js/main.fde83e45.chunk.js"
+    "static/js/main.7df4828b.chunk.js"
   ]
 }
