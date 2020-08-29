@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/swaggers-gather/static/css/main.57261a1a.chunk.css",
-    "main.js": "/swaggers-gather/static/js/main.7df4828b.chunk.js",
-    "main.js.map": "/swaggers-gather/static/js/main.7df4828b.chunk.js.map",
-    "runtime-main.js": "/swaggers-gather/static/js/runtime-main.a09f7046.js",
-    "runtime-main.js.map": "/swaggers-gather/static/js/runtime-main.a09f7046.js.map",
-    "static/js/2.da8d6cb8.chunk.js": "/swaggers-gather/static/js/2.da8d6cb8.chunk.js",
-    "static/js/2.da8d6cb8.chunk.js.map": "/swaggers-gather/static/js/2.da8d6cb8.chunk.js.map",
-    "index.html": "/swaggers-gather/index.html",
-    "precache-manifest.c493ea510c6124be033812505f5649fa.js": "/swaggers-gather/precache-manifest.c493ea510c6124be033812505f5649fa.js",
-    "service-worker.js": "/swaggers-gather/service-worker.js",
-    "static/css/main.57261a1a.chunk.css.map": "/swaggers-gather/static/css/main.57261a1a.chunk.css.map",
-    "static/js/2.da8d6cb8.chunk.js.LICENSE.txt": "/swaggers-gather/static/js/2.da8d6cb8.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/swaggers-gather/static/media/logo.5d5d9eef.svg"
+    "main.css": "/swaggersgather.github.io/static/css/main.57261a1a.chunk.css",
+    "main.js": "/swaggersgather.github.io/static/js/main.5985174f.chunk.js",
+    "main.js.map": "/swaggersgather.github.io/static/js/main.5985174f.chunk.js.map",
+    "runtime-main.js": "/swaggersgather.github.io/static/js/runtime-main.1d5230bf.js",
+    "runtime-main.js.map": "/swaggersgather.github.io/static/js/runtime-main.1d5230bf.js.map",
+    "static/js/2.da8d6cb8.chunk.js": "/swaggersgather.github.io/static/js/2.da8d6cb8.chunk.js",
+    "static/js/2.da8d6cb8.chunk.js.map": "/swaggersgather.github.io/static/js/2.da8d6cb8.chunk.js.map",
+    "index.html": "/swaggersgather.github.io/index.html",
+    "precache-manifest.135386cdf49aa7df727f839132366068.js": "/swaggersgather.github.io/precache-manifest.135386cdf49aa7df727f839132366068.js",
+    "service-worker.js": "/swaggersgather.github.io/service-worker.js",
+    "static/css/main.57261a1a.chunk.css.map": "/swaggersgather.github.io/static/css/main.57261a1a.chunk.css.map",
+    "static/js/2.da8d6cb8.chunk.js.LICENSE.txt": "/swaggersgather.github.io/static/js/2.da8d6cb8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/swaggersgather.github.io/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a09f7046.js",
+    "static/js/runtime-main.1d5230bf.js",
     "static/js/2.da8d6cb8.chunk.js",
     "static/css/main.57261a1a.chunk.css",
-    "static/js/main.7df4828b.chunk.js"
+    "static/js/main.5985174f.chunk.js"
   ]
 }
