@@ -35,6 +35,16 @@
     text-decoration-line: none;
 }
 
+.small {
+    float: right;
+    height: 100%;
+}
+
 .header-link:hover {
     color: #ccb391;
+}
+
+.header-logo {
+    margin-top: .2em;
+    width: 2em;
 }

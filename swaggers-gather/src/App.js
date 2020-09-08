@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Introduction from './components/introduction'
 import BlogHighlight from './components/blog-highlight'
