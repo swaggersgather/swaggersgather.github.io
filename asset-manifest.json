@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/swaggersgather.github.io/static/css/main.57261a1a.chunk.css",
-    "main.js": "/swaggersgather.github.io/static/js/main.5985174f.chunk.js",
-    "main.js.map": "/swaggersgather.github.io/static/js/main.5985174f.chunk.js.map",
+    "main.css": "/swaggersgather.github.io/static/css/main.5fdc6220.chunk.css",
+    "main.js": "/swaggersgather.github.io/static/js/main.14951703.chunk.js",
+    "main.js.map": "/swaggersgather.github.io/static/js/main.14951703.chunk.js.map",
     "runtime-main.js": "/swaggersgather.github.io/static/js/runtime-main.1d5230bf.js",
     "runtime-main.js.map": "/swaggersgather.github.io/static/js/runtime-main.1d5230bf.js.map",
-    "static/js/2.da8d6cb8.chunk.js": "/swaggersgather.github.io/static/js/2.da8d6cb8.chunk.js",
-    "static/js/2.da8d6cb8.chunk.js.map": "/swaggersgather.github.io/static/js/2.da8d6cb8.chunk.js.map",
+    "static/js/2.2258e25e.chunk.js": "/swaggersgather.github.io/static/js/2.2258e25e.chunk.js",
+    "static/js/2.2258e25e.chunk.js.map": "/swaggersgather.github.io/static/js/2.2258e25e.chunk.js.map",
     "index.html": "/swaggersgather.github.io/index.html",
-    "precache-manifest.135386cdf49aa7df727f839132366068.js": "/swaggersgather.github.io/precache-manifest.135386cdf49aa7df727f839132366068.js",
+    "precache-manifest.c2f817dbec5478d5ef964a87f80d6642.js": "/swaggersgather.github.io/precache-manifest.c2f817dbec5478d5ef964a87f80d6642.js",
     "service-worker.js": "/swaggersgather.github.io/service-worker.js",
-    "static/css/main.57261a1a.chunk.css.map": "/swaggersgather.github.io/static/css/main.57261a1a.chunk.css.map",
-    "static/js/2.da8d6cb8.chunk.js.LICENSE.txt": "/swaggersgather.github.io/static/js/2.da8d6cb8.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/swaggersgather.github.io/static/media/logo.5d5d9eef.svg"
+    "static/css/main.5fdc6220.chunk.css.map": "/swaggersgather.github.io/static/css/main.5fdc6220.chunk.css.map",
+    "static/js/2.2258e25e.chunk.js.LICENSE.txt": "/swaggersgather.github.io/static/js/2.2258e25e.chunk.js.LICENSE.txt",
+    "static/media/blog-homeschool-room.jpeg": "/swaggersgather.github.io/static/media/blog-homeschool-room.3a73b939.jpeg",
+    "static/media/blog-shelves.jpeg": "/swaggersgather.github.io/static/media/blog-shelves.a7e03a39.jpeg",
+    "static/media/blog-swing.jpeg": "/swaggersgather.github.io/static/media/blog-swing.bf1e7dc0.jpeg",
+    "static/media/blog-table.jpeg": "/swaggersgather.github.io/static/media/blog-table.6ec20446.jpeg",
+    "static/media/blog-travel-croatia.jpeg": "/swaggersgather.github.io/static/media/blog-travel-croatia.f452b29a.jpeg",
+    "static/media/blog-travel.jpeg": "/swaggersgather.github.io/static/media/blog-travel.9eb9afcc.jpeg",
+    "static/media/carousel.jpg": "/swaggersgather.github.io/static/media/carousel.1b313f7d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1d5230bf.js",
-    "static/js/2.da8d6cb8.chunk.js",
-    "static/css/main.57261a1a.chunk.css",
-    "static/js/main.5985174f.chunk.js"
+    "static/js/2.2258e25e.chunk.js",
+    "static/css/main.5fdc6220.chunk.css",
+    "static/js/main.14951703.chunk.js"
   ]
 }
