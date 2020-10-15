@@ -18,6 +18,7 @@ export default class Header extends Component {
     return (
       <div className="header-main">
         <div className="header-upper">
+          <a className="header-home" href="">SG</a>
           <a className="header-link small" href="https://www.pinterest.com/swaggersgather" target="_blank" title="Pinterest Profile">
             <img className="header-logo" src={pLogo}></img>
           </a>
