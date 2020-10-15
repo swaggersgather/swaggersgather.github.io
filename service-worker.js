@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/swaggersgather.github.io/precache-manifest.c2f817dbec5478d5ef964a87f80d6642.js"
+  "/swaggersgather.github.io/precache-manifest.1312ecca4ce0abf7fa8127e1b4651b9c.js"
 );
 
 self.addEventListener('message', (event) => {

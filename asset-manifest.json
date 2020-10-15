@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/swaggersgather.github.io/static/css/main.5fdc6220.chunk.css",
-    "main.js": "/swaggersgather.github.io/static/js/main.14951703.chunk.js",
-    "main.js.map": "/swaggersgather.github.io/static/js/main.14951703.chunk.js.map",
+    "main.css": "/swaggersgather.github.io/static/css/main.507bb4e8.chunk.css",
+    "main.js": "/swaggersgather.github.io/static/js/main.2684fea9.chunk.js",
+    "main.js.map": "/swaggersgather.github.io/static/js/main.2684fea9.chunk.js.map",
     "runtime-main.js": "/swaggersgather.github.io/static/js/runtime-main.1d5230bf.js",
     "runtime-main.js.map": "/swaggersgather.github.io/static/js/runtime-main.1d5230bf.js.map",
-    "static/js/2.2258e25e.chunk.js": "/swaggersgather.github.io/static/js/2.2258e25e.chunk.js",
-    "static/js/2.2258e25e.chunk.js.map": "/swaggersgather.github.io/static/js/2.2258e25e.chunk.js.map",
+    "static/js/2.e129e8ef.chunk.js": "/swaggersgather.github.io/static/js/2.e129e8ef.chunk.js",
+    "static/js/2.e129e8ef.chunk.js.map": "/swaggersgather.github.io/static/js/2.e129e8ef.chunk.js.map",
     "index.html": "/swaggersgather.github.io/index.html",
-    "precache-manifest.c2f817dbec5478d5ef964a87f80d6642.js": "/swaggersgather.github.io/precache-manifest.c2f817dbec5478d5ef964a87f80d6642.js",
+    "precache-manifest.1312ecca4ce0abf7fa8127e1b4651b9c.js": "/swaggersgather.github.io/precache-manifest.1312ecca4ce0abf7fa8127e1b4651b9c.js",
     "service-worker.js": "/swaggersgather.github.io/service-worker.js",
-    "static/css/main.5fdc6220.chunk.css.map": "/swaggersgather.github.io/static/css/main.5fdc6220.chunk.css.map",
-    "static/js/2.2258e25e.chunk.js.LICENSE.txt": "/swaggersgather.github.io/static/js/2.2258e25e.chunk.js.LICENSE.txt",
+    "static/css/main.507bb4e8.chunk.css.map": "/swaggersgather.github.io/static/css/main.507bb4e8.chunk.css.map",
+    "static/js/2.e129e8ef.chunk.js.LICENSE.txt": "/swaggersgather.github.io/static/js/2.e129e8ef.chunk.js.LICENSE.txt",
     "static/media/blog-homeschool-room.jpeg": "/swaggersgather.github.io/static/media/blog-homeschool-room.3a73b939.jpeg",
     "static/media/blog-shelves.jpeg": "/swaggersgather.github.io/static/media/blog-shelves.a7e03a39.jpeg",
     "static/media/blog-swing.jpeg": "/swaggersgather.github.io/static/media/blog-swing.bf1e7dc0.jpeg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1d5230bf.js",
-    "static/js/2.2258e25e.chunk.js",
-    "static/css/main.5fdc6220.chunk.css",
-    "static/js/main.14951703.chunk.js"
+    "static/js/2.e129e8ef.chunk.js",
+    "static/css/main.507bb4e8.chunk.css",
+    "static/js/main.2684fea9.chunk.js"
   ]
 }
